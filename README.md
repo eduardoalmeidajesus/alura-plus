@@ -1,6 +1,6 @@
 # Alura Plus
 
-Esta Landing Page foi desenvolvido durante o **curso de HTML e CSS da Alura**, com o objetivo de praticar a criação de páginas web utilizando apenas **HTML5 e CSS3**.
+Este projeto foi desenvolvido durante o **curso de HTML e CSS da Alura**, com o objetivo de praticar a criação de páginas web utilizando apenas **HTML5 e CSS3**.
 
 ## 🌐 Demonstração
 
